@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pete&#39;s Awesome Stuff</title>
+    <link>https://panatale1.github.io/bookshelf/post/</link>
+    <description>Recent content in Posts on Pete&#39;s Awesome Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 17:34:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://panatale1.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>https://panatale1.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Thu, 11 May 2017 17:34:08 -0400</pubDate>
+      
+      <guid>https://panatale1.github.io/bookshelf/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies become great.</description>
+    </item>
+    
+  </channel>
+</rss>
